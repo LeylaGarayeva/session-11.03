@@ -1,0 +1,84 @@
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\ApplicationInsights.config
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\sessia 11.03.dll.config
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\sessia 11.03.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\sessia 11.03.pdb
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Antlr3.Runtime.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Web.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.ApplicationInsights.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Newtonsoft.Json.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Helpers.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Mvc.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Optimization.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Razor.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Deployment.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Razor.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\WebGrease.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Helpers.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Mvc.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Optimization.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.Razor.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Deployment.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Razor.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Antlr3.Runtime.pdb
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Newtonsoft.Json.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.ApplicationInsights.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Web.xml
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.csprojResolveAssemblyReference.cache
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.csproj.CoreCompileInputs.cache
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.dll
+C:\Users\P502\source\repos\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.pdb
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\ApplicationInsights.config
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\sessia 11.03.dll.config
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\sessia 11.03.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\sessia 11.03.pdb
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Antlr3.Runtime.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Web.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.ApplicationInsights.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Newtonsoft.Json.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Helpers.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Mvc.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Optimization.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Razor.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Deployment.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Razor.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\WebGrease.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Helpers.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Mvc.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Optimization.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.Razor.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Deployment.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\System.Web.WebPages.Razor.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Antlr3.Runtime.pdb
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Newtonsoft.Json.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.ApplicationInsights.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\bin\Microsoft.AI.Web.xml
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.dll
+C:\Users\P502\Desktop\task\sessia 11.03\sessia 11.03\obj\Debug\sessia 11.03.pdb
